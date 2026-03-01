@@ -287,9 +287,9 @@ const ModuleSection = () => (
                  <div className="flex gap-4 items-start mt-4 group">
                     <div className="shrink-0 mt-1"><FileText className="w-8 h-8 text-slate-300 group-hover:text-amber-600 transition-colors" /></div>
                     <div>
-                       <p className="serif font-bold text-base lg:text-lg text-slate-900 leading-tight">XX专业方向实习就业规划方案
-                         <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/08b3fa96e422b2ff86989981376cb31a.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-amber-600 hover:text-amber-700 hover:underline font-medium transition-colors">点击查看样本 </a>
-                       </p>
+                       <p className="serif font-bold text-base lg:text-lg text-slate-900 leading-tight">XX专业方向实习就业规划方案</p>
+                       <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/08b3fa96e422b2ff86989981376cb31a.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-red-600 hover:text-amber-700 text-decoration-line: underline text-decoration-thickness: 2px hover:underline font-medium transition-colors">点击查看样本 </a>
+                       
                        <div className="mt-4 p-4 bg-slate-50 border-l-4 border-amber-600 -ml-2">
                           <p className="text-lg text-slate-900/95 leading-relaxed font-normal italic">包含：行业清单、岗位要求、薪资水平、准备路径、实习建议</p>
                        </div>
@@ -390,7 +390,7 @@ const ModuleSection = () => (
                       <div>
                         <h5 className="serif text-xs font-black text-slate-500 uppercase tracking-[0.3em] mb-1">学生将收获</h5>
                         <p className="serif font-bold text-xl lg:text-2xl text-white tracking-tight">XX方向学术准备清单
-                          <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/cb52c86aba1e48ec7f8141abd9aefca7.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-amber-600 hover:text-amber-700 hover:underline font-medium transition-colors">点击查看样本 </a>
+                          <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/cb52c86aba1e48ec7f8141abd9aefca7.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-yellow-600 hover:text-amber-700 text-decoration-line: underline text-decoration-thickness: 2px hover:underline font-medium transition-colors">点击查看样本 </a>
                         </p>
                       </div>
                     </div>
@@ -493,7 +493,7 @@ const ModuleSection = () => (
                        <div>
                           <p className="text-amber-500 text-[11px] font-black uppercase tracking-[0.4em] mb-2">Student Outcome</p>
                           <h5 className="serif text-3xl lg:text-3xl font-bold tracking-tight">个人科研规划路线图</h5>
-                          <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/875120bbd57c73d9a309d5c37df8cec8.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-amber-600 hover:text-amber-700 hover:underline font-medium transition-colors">点击查看样本 </a>
+                          <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/875120bbd57c73d9a309d5c37df8cec8.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-yellow-600 hover:text-amber-700 text-decoration-line: underline text-decoration-thickness: 2px hover:underline font-medium transition-colors">点击查看样本 </a>
                        </div>
                     </div>
                     <div className="flex-1 md:border-l md:border-white/10 md:pl-10">
@@ -610,7 +610,7 @@ const ModuleSection = () => (
                        <div>
                           <p className="text-red-400 text-[10px] font-black uppercase tracking-[0.4em] mb-2">Exclusive Outcome</p>
                           <h5 className="serif text-3xl lg:text-3xl font-bold tracking-tight">标化考试备考定制方案</h5>
-                          <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/87350d806d6195944bf9914db8604627.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-amber-600 hover:text-amber-700 hover:underline font-medium transition-colors">点击查看样本 </a>
+                          <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/87350d806d6195944bf9914db8604627.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 text-medium text-yellow-600 hover:text-amber-700 text-decoration-line: underline text-decoration-thickness: 2px hover:underline font-medium transition-colors">点击查看样本 </a>
 
                        </div>
                     </div>
