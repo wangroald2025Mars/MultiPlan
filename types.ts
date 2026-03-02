@@ -31,5 +31,5 @@ export interface Phase {
   target: string;
   servicesDescription?: string; // Additional context for the service section
   services: SubService[];
-  outcomes: string[];
+  outcomes: (string | { text: string; link: string })[];
 }

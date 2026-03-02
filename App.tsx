@@ -807,9 +807,25 @@ const ProcessSection = () => {
                <h4 className="serif text-2xl font-bold text-white mb-10 flex items-center gap-4"><ListChecks className="text-amber-600 w-7 h-7" /> 核心成果</h4>
                <ul className="space-y-6 relative z-10">
                  {PHASES[activePhase].outcomes.map((outcome, oIdx) => (
-                   <li key={outcome} className="flex gap-4 group items-center">
+                   <li key={typeof outcome === 'string' ? outcome : outcome.text} className="flex gap-4 group items-center">
                      <span className="serif text-[13px] font-black text-amber-600 group-hover:translate-x-1 transition-transform">0{oIdx + 1}</span>
-                     <span className="text-slate-200 text-white font-light text-[18px] tracking-tight leading-snug">{outcome}</span>
+                     <span className="text-slate-200 text-white font-light text-[18px] tracking-tight leading-snug">
+                       {typeof outcome === 'string' ? (
+                         outcome
+                       ) : (
+                         <>
+                           {outcome.text}
+                           <a 
+                             href={outcome.link} 
+                             target="_blank" 
+                             rel="noopener noreferrer" 
+                             className="ml-3 font-medium text-yellow-600 transition-colors hover:text-amber-700 underline underline-offset-4 decoration-2"
+                           >
+                             点击查看样本
+                           </a>
+                         </>
+                       )}
+                     </span>
                    </li>
                  ))}
                </ul>

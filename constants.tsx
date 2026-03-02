@@ -135,10 +135,10 @@ export const PHASES: Phase[] = [
       }
     ],
     outcomes: [
-      '《专业分支方向全景图》',
-      '《各方向学术准备清单》',
-      '《各方向就业全景图》',
-      '初步筛选出3-4个感兴趣方向'
+      { text: '《专业分支方向全景图》', link: 'https://www.seeyooedu.com/qfy-content/uploads/2026/03/96ba828e9f6523f701648ba21722cf14.pdf' },
+      { text: '《各方向学术准备清单》', link: 'https://www.seeyooedu.com/qfy-content/uploads/2026/03/2b93313eb8a34e94e4633729ff2e5cba.pdf' },
+      { text: '《各专业实习全景图》', link: 'https://www.seeyooedu.com/qfy-content/uploads/2026/03/839b3db163dcac58a2d5a3844ce4420b.pdf' },
+      '- 初步筛选出3-4个感兴趣方向 -'
     ]
   },
   {
