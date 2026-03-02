@@ -988,7 +988,7 @@ export default function App() {
               <div className="w-12 h-12 bg-amber-600 flex items-center justify-center rotate-45 shadow-2xl"><Zap className="text-white w-5 h-5 -rotate-45" /></div>
               <div><span className="serif font-bold text-2xl tracking-tighter uppercase">留学多元规划</span><p className="text-[9px] text-amber-500 font-black uppercase tracking-[0.4em] mt-1">Multi-Admission Planning Service</p></div>
             </div>
-            <p className="text-white text-[18px] max-w-sm font-light leading-relaxed">提供全球名校的学术规划与职业发展咨询，助力学子实现更好的就业<br/> 超哥留学 北京学翼 榕树国际SeeyooEdu</p>
+            <p className="text-white text-[18px] max-w-sm font-light leading-relaxed">提供全球名校的学术规划与职业发展咨询，助力学子实现更好的就业<br/>榕树国际SeeyooEdu</p>
           </div>
           <div className="flex md:justify-end gap-16 text-[16px] font-black uppercase tracking-[0.3em] text-slate-500">
             <div className="space-y-3 flex flex-col">

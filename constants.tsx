@@ -130,8 +130,8 @@ export const PHASES: Phase[] = [
         description: '通过行业导师深度沟通，了解每个方向对应的行业、岗位、工作内容、薪资、用人要求' 
       },
       { 
-        name: '学术认知', 
-        description: '通过学术mentor深度沟通，了解专业可申的所有分支方向、每个方向的学术要求' 
+        name: '学术及申请专业方向认知', 
+        description: '通过和学术导师深度沟通，了解专业可申的所有分支方向、每个方向的学术要求' 
       }
     ],
     outcomes: [
