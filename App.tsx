@@ -389,7 +389,7 @@ const ModuleSection = () => (
                       </div>
                       <div>
                         <h5 className="serif text-xs font-black text-slate-500 uppercase tracking-[0.3em] mb-1">学生将收获</h5>
-                        <p className="serif font-bold text-xl lg:text-2xl text-white tracking-tight">XX方向学术准备清单</p>
+                        <p className="serif font-bold text-xl lg:text-2xl text-white tracking-tight">XX方向学术准备方案</p>
                         <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/cb52c86aba1e48ec7f8141abd9aefca7.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 font-medium text-yellow-600 transition-colors hover:text-amber-700 underline underline-offset-4 decoration-2">点击查看样本 </a>
                       </div>
                     </div>
@@ -491,7 +491,7 @@ const ModuleSection = () => (
                        </div>
                        <div>
                           <p className="text-amber-500 text-[11px] font-black uppercase tracking-[0.4em] mb-2">Student Outcome</p>
-                          <h5 className="serif text-3xl lg:text-3xl font-bold tracking-tight">个人科研规划路线图</h5>
+                          <h5 className="serif text-3xl lg:text-3xl font-bold tracking-tight">个人科研规划方案</h5>
                           <a href="https://www.seeyooedu.com/qfy-content/uploads/2026/03/875120bbd57c73d9a309d5c37df8cec8.pdf" target="_blank" rel="noopener noreferrer" className="ml-3 font-medium text-yellow-600 transition-colors hover:text-amber-700 underline underline-offset-4 decoration-2">点击查看样本 </a>
                        </div>
                     </div>
