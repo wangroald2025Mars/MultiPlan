@@ -180,10 +180,10 @@ export const PHASES: Phase[] = [
       }
     ],
     outcomes: [
-      '《先修课程补充计划》',
-      '《实习路径规划表》',
-      '《科研规划路线图》',
-      '《标化考试时间规划表》'
+      { text: '《学术准备清单》', link: 'https://www.seeyooedu.com/qfy-content/uploads/2026/03/2b93313eb8a34e94e4633729ff2e5cba.pdf' },
+      { text: '《实习就业规划方案》', link: 'https://www.seeyooedu.com/qfy-content/uploads/2026/03/08b3fa96e422b2ff86989981376cb31a.pdf' },
+      { text: '《科研规划方案》', link: 'https://www.seeyooedu.com/qfy-content/uploads/2026/03/875120bbd57c73d9a309d5c37df8cec8.pdf' },
+      { text: '《标化备考定制方案》', link: 'https://www.seeyooedu.com/qfy-content/uploads/2026/03/87350d806d6195944bf9914db8604627.pdf' },
     ]
   },
   {
